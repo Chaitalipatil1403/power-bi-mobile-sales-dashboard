@@ -21,5 +21,5 @@ File: `Mobile Sales Data.xlsx`
 ## Dashboard Preview
 ![Overview](page1_Overview.png)
 ![Region Analysis](page2_Quarter.png)
-![Sales Trend](page3_Sales.png)
+![Sales Trend](page3_sales.png)
 
