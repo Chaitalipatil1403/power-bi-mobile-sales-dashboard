@@ -14,7 +14,12 @@ It provides insights into sales performance, revenue trends, and regional analys
 - Top-performing regions and brands
 - Monthly and yearly sales comparison
 
+## Dataset
+The dataset used in this project is available in the `dataset` folder.
+File: `Mobile Sales Data.xlsx`
+
 ## Dashboard Preview
 ![Overview](page1_Overview.png)
 ![Region Analysis](page2_Quarter.png)
 ![Sales Trend](page3_Sales.png)
+
