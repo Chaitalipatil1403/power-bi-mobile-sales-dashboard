@@ -15,3 +15,6 @@ It provides insights into sales performance, revenue trends, and regional analys
 - Monthly and yearly sales comparison
 
 ## Dashboard Preview
+![Overview](page1_Overview.png)
+![Region Analysis](page2_Quarter.png)
+![Sales Trend](page3_Sales.png)
