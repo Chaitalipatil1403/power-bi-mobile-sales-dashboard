@@ -19,7 +19,7 @@ The dataset used in this project is available in the `dataset` folder.
 File: `Mobile Sales Data.xlsx`
 
 ## Dashboard Preview
-![Overview](page1_Overview.png)
+![Overview](page1_overview.png)
 ![Region Analysis](page2_Quarter.png)
 ![Sales Trend](page3_sales.png)
 
